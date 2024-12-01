@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Omkumar
+Author-email: mauryaomkumar199@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: pandas>=1.3.0
+Requires-Dist: flask>=2.0.0
